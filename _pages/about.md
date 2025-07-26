@@ -9,3 +9,4 @@ redirect_from:
 
 
 I am Pro Li Cuihong.
+You can find my CV here: [Di Qiu's Curriculum Vitae](./assets/Curriculum_Vitae.pdf).
