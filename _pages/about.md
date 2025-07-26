@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+Hello
 
 I am Pro Li Cuihong.
 
